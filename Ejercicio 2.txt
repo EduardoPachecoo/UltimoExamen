@@ -1,0 +1,2 @@
+La sentencia EOF retorna un costo booleano el cual varia de acuerdo con el estado de un puntero sobre un documento el cual se está recorriendo, de esa manera retorna True en caso de que comentado puntero que está recorriendo el documento en cuestión llega finalmente o al punto en el cual el documento ya está vacío, y False en caso de hallarse en una postura donde el documento tiene cualquier tipo de información.
+
